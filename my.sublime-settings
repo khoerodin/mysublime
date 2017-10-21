@@ -1,7 +1,14 @@
 {
+    "auto_complete_triggers":
+    [
+        {
+            "characters": ".",
+            "selector": "source.js"
+        }
+    ],
     "caret_style": "phase",
     "close_windows_when_empty": true,
-    "color_scheme": "Packages/Enki Theme/scheme/Enki.tmTheme",
+    "color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
     "enki_theme_accent_red": true,
     "enki_theme_compact_sidebar": true,
     "enki_theme_panel_separator": true,
@@ -16,8 +23,8 @@
     [
         "Vintage"
     ],
-    "line_padding_bottom": 6,
-    "line_padding_top": 6,
+    "line_padding_bottom": 8,
+    "line_padding_top": 8,
     "theme": "Enki-Theme.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
